@@ -1,0 +1,42 @@
+export const myProject = [
+   {
+      id: 1,
+      img: process.env.PUBLIC_URL + `/img/projects/project_DailyDiary.png`,
+      title: '디디:DailyDiary',
+      description: '데일리 다이어리 프로젝트 입니다. React를 이용하여 일기를 추가, 삭제, 수정 할 수 있는 기능을 구현하고 로컬스토리지를 통해 일기를 저장합니다. 또 firebase를 이용하여 배포하였습니다.',
+      tech_stack: ['React.js' , 'CSS', 'Local Storage', 'Firebase'],
+      url: 'https://jay-dailydiary.web.app/',
+   },
+   {
+      id: 2,
+      img: process.env.PUBLIC_URL + `/img/projects/project_carrot-game.png`,
+      title: 'carrot game',
+      description: '미니게임인 당근게임 프로젝트 입니다. 제한시간내에 벌레를 피해 당근을 수확하는 게임으로 자바스크립트를 이용해서 오디오, 카운트다운, 클릭, 팝업기능들을 구현하였습니다.',
+      tech_stack: ['HTML', 'CSS', 'JavaScript'],
+      url: 'https://dmswnlee.github.io/carrot-game/',
+   },
+   {
+      id: 3,
+      img: process.env.PUBLIC_URL + `/img/projects/project_kakaotalk.png`,
+      title: 'Kakaotalk Clone',
+      description: '카카오톡 클론 프로젝트입니다. React와 반응형 Flex Box를 사용하여 깃허브에 배포하였습니다.',
+      tech_stack: ['React.js', 'scss'],
+      url: 'https://dmswnlee.github.io/kakaoTalk-app/',
+   },
+   {
+      id: 4,
+      img: process.env.PUBLIC_URL + `/img/projects/project_cj-one.png`,
+      title: 'CJ one Clone',
+      description: 'CJ one 홈페이지 클론 프로젝트입니다. 반응형웹으로 제작한 웹사이트 입니다. 미디어쿼리를 이용하여 PC,노트북,태블릿과 모바일에서 자동으로 해상도와 레이아웃이 변경됩니다.',
+      tech_stack: ['HTML', 'CSS', 'JavaScript'],
+      url: 'https://dmswnlee.github.io/CJ-one/',
+   },
+   {
+      id: 5,
+      img: process.env.PUBLIC_URL + `/img/projects/project_samsung.png`,
+      title: 'Samsung Clone',
+      description:'삼성전기 홈페이지 클론 프로젝트입니다. 웹콘텐츠 접근성 지침과 웹 표준을 준수하여 제작하였습니다. 또한 크로스 브라우징 검사를 완료하여 IE8 - IE11, FIREFOX, CHROME 등 웹 브라우저에서 동일한 웹페이지를 볼 수 있습니다.',
+      tech_stack: ['HTML', 'CSS', 'JavaScript'],
+      url: 'https://dmswnlee.github.io/samsung/',
+   },
+];
