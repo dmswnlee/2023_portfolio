@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "eunjoo-portfolio-2023",
+    "site": "2023-eunjoo-portfolio",
     "public": "build",
     "ignore": [
       "firebase.json",

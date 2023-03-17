@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { FaArrowLeft, FaArrowRight, FaUndoAlt } from 'react-icons/fa';
 
 import styles from '../styles/Header.module.css'
@@ -13,7 +13,7 @@ export default function Header() {
                 <li><FaUndoAlt /></li>
             </ul>
             <div className={styles.address_bar}>
-               <p>https://github.com</p>
+                  <p>https://jaygle.com/</p>
             </div>
             <div className={styles.user_name}>
                <p>은주</p>
