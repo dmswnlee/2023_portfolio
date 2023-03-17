@@ -1,7 +1,7 @@
 # 2023 포트폴리오
 
 ### 개인프로젝트
-### React로 구현한 2023ver 포트폴리오 (https://eunjoo-portfolio-2023.web.app)
+### React로 구현한 2023ver 포트폴리오 (https://eunjoo-portfolio2023.web.app/)
 
 <br>
 
