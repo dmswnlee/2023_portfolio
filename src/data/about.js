@@ -41,26 +41,21 @@ export const mySkillsImages = [
    },
    {
       id: 9,
-      img: process.env.PUBLIC_URL + `/img/about/skill_firebase.png`,
-      descript: 'Firebase',
-   },
-   {
-      id: 10,
       img: process.env.PUBLIC_URL + `/img/about/skill_bootstrap.png`,
       descript: 'bootstrap',
    },
    {
-      id: 11,
+      id: 10,
       img: process.env.PUBLIC_URL + `/img/about/skill_photoshop.png`,
       descript: 'photoshop',
    },
    {
-      id: 12,
+      id: 11,
       img: process.env.PUBLIC_URL + `/img/about/skill_illustrator.png`,
       descript: 'illustrator',
    },
    {
-      id: 13,
+      id: 12,
       img: process.env.PUBLIC_URL + `/img/about/skill_xd.png`,
       descript: 'xd',
    },
