@@ -17,11 +17,11 @@ export const myProject = [
    },
    {
       id: 3,
-      img: process.env.PUBLIC_URL + `/img/projects/project_kakaotalk.png`,
-      title: 'Kakaotalk Clone',
-      description: '카카오톡 클론 프로젝트입니다. React와 반응형 Flex Box를 사용하여 깃허브에 배포하였습니다.',
-      tech_stack: ['React.js', 'scss'],
-      url: 'https://dmswnlee.github.io/kakaoTalk-app/',
+      img: process.env.PUBLIC_URL + `/img/projects/project_movie-app.png`,
+      title: 'Movie app',
+      description: 'React와 REST API를 사용하여 일정 별점 이상의 영화를 추천 해주는 웹사이트 입니다.토렌트 사이트에서 제공하는 API를 이용하여 영화를 추천합니다.',
+      tech_stack: ['React.js', 'CSS', 'REST API'],
+      url: 'https://dmswnlee.github.io/movie-app/',
    },
    {
       id: 4,
